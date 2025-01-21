@@ -1,0 +1,58 @@
+.add{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.add-input{
+    height: 30px;
+    width: 400px;
+    border-radius: 15px;
+    margin-right: 2px;
+    padding: 5px;
+    padding-left: 20px;
+    border: none;
+    background-color: #F1ECE6;
+}
+.add-btn{
+    background-color: rgb(163, 219, 238);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 50px;
+
+}
+.todosection{
+    background-color: #F1ECE6; 
+   position: relative;
+   margin-top: 20px;
+   left: 350px;
+   height: 450px;
+   width: 800px;
+   padding: 20px;
+
+}
+.item{
+    border-bottom: 2px solid lightblue;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: larger;
+}
+.item img {
+    height: 15px;
+    position: relative;
+    left: 600px;
+}
+.clear-sec img{
+    height: 25px;
+}
+.clear-sec{
+    font-size: large;
+    position: relative;
+    top: 430px;
+    left: 300px;
+}
+.clear-sec span{
+    position: relative;
+    bottom: 7px;
+    margin-left: 2px;
+}
