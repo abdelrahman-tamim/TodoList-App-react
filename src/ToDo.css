@@ -39,8 +39,8 @@
 }
 .item img {
     height: 15px;
-    position: relative;
-    left: 600px;
+    position:absolute;
+    right: 50px;
 }
 .clear-sec img{
     height: 25px;

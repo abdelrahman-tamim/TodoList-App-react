@@ -7,7 +7,7 @@ const NavBar = () => {
         <img src="/src/logo.png" alt=""/>
         </div>
         <div className='personal'>
-            Personal
+            To Do
         </div>
       </div>
     </>
